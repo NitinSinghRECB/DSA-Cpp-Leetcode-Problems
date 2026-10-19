@@ -9,6 +9,7 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -18,6 +19,7 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -43,4 +45,8 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
