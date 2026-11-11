@@ -27,6 +27,7 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -36,6 +37,7 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -49,4 +51,8 @@ This is my Solved Question on Leetcode with simple code , easy to understand , a
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NitinSinghRECB/DSA-Cpp-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
